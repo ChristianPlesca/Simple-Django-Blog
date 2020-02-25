@@ -7,6 +7,12 @@ verify_ssl = true
 
 [packages]
 django = "==1.11.24"
+pillow = "*"
+django-forms-bootstrap = "*"
+psycopg2 = "*"
+dj-database-url = "*"
+psycopg2-binary = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.6"
